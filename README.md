@@ -13,3 +13,6 @@ Clone the repo:
 ```bash
 git clone https://github.com/<yourname>/Bottom-Up-Multi-Document-Localization.git
 cd Bottom-Up-Multi-Document-Localization
+
+📊 Dataset
+If you would like to access the dataset in this paper, please contact us via email:2023224023@chd.edu.cn.
